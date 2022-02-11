@@ -1,0 +1,27 @@
+#heading {
+    width: 80%;
+    background-color: white;
+    font-size: 30px;
+}
+
+body {
+    background-color: hotpink;
+    color: white;
+}
+
+#objects {
+    color: yellow;
+}
+
+#webcam {
+    width: 40%;
+    height: 50%;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+}
+
+#objName,
+#objAccuracy {
+    color: yellow;
+}
